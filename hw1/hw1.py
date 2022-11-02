@@ -1,9 +1,4 @@
-from audioop import reverse
-from copy import copy
 import inspect
-import queue
-from turtle import st
-from xml.etree.ElementTree import XML
 from func_for_test import *
 
 # Q1
